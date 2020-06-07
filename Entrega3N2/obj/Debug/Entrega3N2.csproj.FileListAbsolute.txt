@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\Entrega 3\Entrega3N2\Entrega3N2\obj\Debug\Entrega3N2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Entrega 3\Entrega3N2\Entrega3N2\obj\Debug\Entrega3N2.Properties.Resources.resources
+\\Mac\Home\Desktop\Entrega 3\Entrega3N2\Entrega3N2\obj\Debug\Entrega3N2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Entrega 3\Entrega3N2\Entrega3N2\obj\Debug\Entrega3N2.csproj.CoreCompileInputs.cache
